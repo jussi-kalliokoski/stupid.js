@@ -4,7 +4,7 @@ It's not like we need yet another coding style guide, but I decided to make one 
 
 ## Stupid JS?!
 
-Yes, the name is how I think Douglas Crockford would name my style guide. You're free to judge for yourself, or fork if you don't like it. To make things easier for you, I've made a tool called [asifier](https://github.com/jussi-kalliokoski/asifier) that does the work for you (the JS engine) and tells where to automatically insert the semicolons and even does it for you.
+Yes, the name is how I think Douglas Crockford would name my style guide. You're free to judge for yourself, or fork if you don't like it. To make things easier for you, I've made a tool called [asifier](https://github.com/jussi-kalliokoski/asifier) that does the work for you (the JS engine) and tells where to automatically insert the semicolons and even inserts them for you if you want.
 
 ## Y U NO ½:
 
