@@ -10,7 +10,7 @@ Yes, the name is how I think Douglas Crockford would name my style guide. You're
 
 Coming from C initially, I used to think that ASI was evil, but some time ago I decided to just give up and learn how it works. It's not that complicated really. I've found that after adopting a coding style with no (few) semicolons, the missing semicolon bugs/errors I used to get have disappeared. It's easy to forget a semicolon when it's supposed to be there, but if you structure your code in a way that semicolons make no difference, there's nothing to forget.
 
-This is not a choice of laziness, however; at some things you'll end up yping more so it's about a zero sum.
+This is not a choice of laziness, however; at some things you'll end up typing more so it's about a zero sum.
 
 ## Basics
 
