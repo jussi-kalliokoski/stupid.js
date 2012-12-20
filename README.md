@@ -14,7 +14,7 @@ This is not a choice of laziness, however; at some things you'll end up typing m
 
 ## Basics
 
-Everything in this coding style aims at consistency. If something you think something isn't consistent, please file an issue.
+Everything in this coding style aims at consistency. If you think something isn't consistent, please file an issue.
 
 ### Control structures with blocks
 
