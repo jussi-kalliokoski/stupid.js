@@ -305,12 +305,12 @@ See the section titled "[Defining](#defining)" for more information.
 For scoping purposes, use closures. If a JS file consists of only one wrapping closure, adding indentation for this is pointless. An example of how to use IIFEs:
 
 ```
-/* all-file wrapper, no need for indentation.
+/* all-file wrapper, no need for indentation. */
 void function () {
 
 var a = 1
 var b = 2
-/* inline IIFE, i.e. nested scoping. Add indentation.
+/* inline IIFE, i.e. nested scoping. Add indentation. */
 var c = function (w) {
 	return w.a || w.b || w.c
 }(window)
