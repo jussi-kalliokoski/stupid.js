@@ -304,7 +304,8 @@ See the section titled "[Defining](#defining)" for more information.
 
 For scoping purposes, use closures. If a JS file consists of only one wrapping closure, adding indentation for this is pointless. An example of how to use IIFEs:
 
-```
+```javascript
+
 /* all-file wrapper, no need for indentation. */
 void function () {
 
@@ -317,6 +318,7 @@ var c = function (w) {
 
 }()
 /* EOF */
+
 ```
 
 ### Expressions / Statements
